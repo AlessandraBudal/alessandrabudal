@@ -28,13 +28,7 @@ Acredito que uma boa interface é aquela que une estética e usabilidade — cad
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Edite, remova ou adicione badges à vontade — a lista completa de logos está disponível em shields.io
 
-## Estatísticas do GitHub
-
-![Estatísticas de SEU-USUARIO no GitHub](https://github-readme-stats.vercel.app/api?username=AlessandraBudal&show_icons=true&locale=pt-br)
-
-![Linguagens mais usadas por SEU-USUARIO](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraBudal&layout=compact&locale=pt-br)
 
 ## Onde me encontrar
 
